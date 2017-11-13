@@ -1,0 +1,28 @@
+html, body {
+	width: 100%;
+}
+
+.container {
+	position: relative;
+	width: 100%;
+	/*font-family: -apple-system, Sans-Serif;*/
+	font-family: "Comic Sans MS";
+	text-align: center;
+	font-size: 24pt;
+	/*color: #3f894a;*/
+}
+
+.title {
+	top: 50px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	position: absolute;
+	margin: 0 auto;
+}
+
+.container img {
+	display: block;
+	width: 100%;
+}
